@@ -268,6 +268,8 @@ https://ythls-v3.onrender.com/channel/UCWVqdPTigfQ-cSNwG7O9MeA.m3u8
 https://ythls.armelin.one/channel/UCATUkaOHwO9EP_W87zCiPbA.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", Jamuna Tv
 https://ythls.armelin.one/channel/UCDj9HHrRUzlsTuPQN0PHxjw.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1200px-Ekushey_Television_Logo.svg.png" group-title="Entertenment", Ekushey_Television
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩",RTV
 https://ythls.armelin.one/channel/UC2P5Fd5g41Gtdqf0Uzh8Qaw.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi 🇧🇩", Somoy 
@@ -344,22 +346,62 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8?v=1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M7W5zRy/images.png" group-title="NEWS INTERNASIONAL", RT NEWS USA
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8?v=1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Tv1pgrG/download-4.png" group-title="NEWS INTERNASIONAL", CNBC Indonesia (EN) 🛜
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tv1pgrG/download-4.png" group-title="NEWS INTERNASIONAL", CNBC Indonesia (EN) 
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3fHPbTH/images.jpg" group-title="NEWS INTERNASIONAL", CGTN News (EN) 🛜
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3fHPbTH/images.jpg" group-title="NEWS INTERNASIONAL", CGTN News (EN) 
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL",Iran International(EN) 🛜
+#EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL",Iran International(EN) 
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 #EXTINF:-1 tvg-logo="" group-title="NEWS INTERNASIONAL",Iran International News tv 
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
-#EXTINF:-1 tvg-logo="http://test-otv1.ftpbd.net/channel-logo/al%20jazeera.jpg"" group-title="NEWS INTERNASIONAL", Aljazeera HD 🛜
+#EXTINF:-1 tvg-logo="http://test-otv1.ftpbd.net/channel-logo/al%20jazeera.jpg"" group-title="NEWS INTERNASIONAL", Aljazeera HD 
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png"" group-title="NEWS INTERNASIONAL", Aljazeera HD Backup 🛜
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png"" group-title="NEWS INTERNASIONAL", Aljazeera HD Backup 
 https://live-hls-web-aje.getaj.net/AJE/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png"" group-title="NEWS INTERNASIONAL", Aljazeera HD Backup 🛜v
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png"" group-title="NEWS INTERNASIONAL", Aljazeera HD Backup 
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7kNhrmW/dw-english-home-tv.png" group-title="NEWS INTERNASIONAL", DW English 📶_📺
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/R.d97ec349ddfa558e12e1369adde4e9dd?rik=1Wgl3hN%2fhRCprQ&riu=http%3a%2f%2fwww.ethnicchannels.com%2fimages%2fchanneldetail%2fzee-bangla%2fzee-bangla-logo.png&ehk=Dc%2f9rZsW2MdyyY9qi3clJ7deYVT42YiRrjAYZWRIasQ%3d&risl=&pid=ImgRaw&r=0" group-title="Entertenment",ZEE-BANGLA
+http://50.50.50.60:8088/301/video.m3u8?token=09gEivoePksgn3
+
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:Colors_Bangla.png" group-title="Entertenment", COLORS-BANGLA
+http://50.50.50.60:8088/304/video.m3u8?token=09gEivoePksgn3
+
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:Sony_Aath_new.png" group-title="Entertenment", SONY-ART
+http://50.50.50.60:8088/306/video.m3u8?token=09gEivoePksgn3
+
+
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:StarPlus_Logo.png" group-title="Entertentment", STAR-PLUS
+http://50.50.50.60:8088/401/video.m3u8?token=09gEivoePksgn3
+
+
+#EXTINF:-1 tvg-logo="https://th.bing.com/th/id/OIP.6PFsRoSI_Qi3yjp4M6ErgwHaKq?w=500&h=720&rs=1&pid=ImgDetMain" group-title="Entertenment", SONY-ENT
+http://50.50.50.60:8088/403/video.m3u8?token=09gEivoePksgn3
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/200px-Colors_TV_logo.svg.png" group-title="Entertentment", COLORS-HIN
+http://50.50.50.60:8088/405/video.m3u8?token=09gEivoePksgn3
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Zee_TV-2018.png/200px-Zee_TV-2018.png" group-title="Entertentment", ZEE-CINEMA
+http://50.50.50.60:8088/406/video.m3u8?token=09gEivoePksgn3
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/180px-STAR_Movies_logo.svg.png" group-title="Entertentment", STAR-MOVIE
+http://50.50.50.60:8088/501/video.m3u8?token=09gEivoePksgn3
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Sony_Sports_Network.svg/220px-Sony_Sports_Network.svg.png" group-title="Entertenment", SONY-SIX
+http://50.50.50.60:8088/503/video.m3u8?token=09gEivoePksgn3
+
+
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/rYdEFAAMY2WALoZj3l2k3psnSRQZEXnmLaj7XuIshb9PzTcCyArO-8OR-SWZXE4ed0Tzh9i86g=s900-c-k-c0x00ffffff-no-rj", SANGIT-BANGLA
+http://50.50.50.60:8088/702/video.m3u8?token=09gEivoePksgn3
 
 
 
@@ -371,5 +413,11 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 http://50.50.50.60:8088/402/video.m3u8?token=09gEivoePksgn3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha_logo_2023.png/190px-Star_Jalsha_logo_2023.png" group-title="Serial ",Star_Jalsha
 http://50.50.50.60:8088/302/video.m3u8?token=09gEivoePksgn3
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/8/85/%E0%A6%9C%E0%A6%B2%E0%A6%B8%E0%A6%BE_%E0%A6%AE%E0%A7%81%E0%A6%AD%E0%A6%BF%E0%A6%9C%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="Entertenment", JALSHA-MOVIES
+http://50.50.50.60:8088/303/video.m3u8?token=09gEivoePksgn3
+
+
+
 
 
