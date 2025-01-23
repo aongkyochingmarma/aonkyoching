@@ -71,6 +71,28 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Bangla Music" tvg-logo="https://imgpile.com/images/58YDwk.jpg",RTV Music
 https://raw.githubusercontent.com/gift4bd/ytm/main/RTVMusic.m3u8
+
+#EXTINF:-1 tvg-name=" [DOC]  DISCOVERY" tvg-id="801", [DOC]  DISCOVERY
+http://50.50.50.60:8088/801/video.m3u8?token=09gEivoePksgn3
+#EXTINF:-1 tvg-name=" [DOC]  NGO-GEROPHY" tvg-id="802", [DOC]  NGO-GEROPHY
+http://50.50.50.60:8088/802/video.m3u8?token=09gEivoePksgn3
+
+#EXTINF:-1 tvg-name=" [SP] DUBAI-SPORTS" tvg-id="129", [SP] DUBAI-SPORTS
+http://50.50.50.60:8088/129/video.m3u8?token=09gEivoePksgn3
+#EXTINF:-1 tvg-name=" [SP] RED-BLUE" tvg-id="130", [SP] RED-BLUE
+http://50.50.50.60:8088/130/video.m3u8?token=09gEivoePksgn3
+
+#EXTINF:-1 tvg-name=" [SP] STAR-SPORTS-1" tvg-id="110", [SP] STAR-SPORTS-1
+http://50.50.50.60:8088/110/video.m3u8?token=09gEivoePksgn3
+#EXTINF:-1 tvg-name=" [SP] STAR-SPORTS-2" tvg-id="115", [SP] STAR-SPORTS-2
+http://50.50.50.60:8088/115/video.m3u8?token=09gEivoePksgn3
+#EXTINF:-1 tvg-name=" [SP] SONY-TEN-1" tvg-id="119", [SP] SONY-TEN-1
+http://50.50.50.60:8088/119/video.m3u8?token=09gEivoePksgn3
+#EXTINF:-1 tvg-name=" [SP] SONY-TEN-2" tvg-id="120", [SP] SONY-TEN-2
+http://50.50.50.60:8088/120/video.m3u8?token=09gEivoePksgn3
+#EXTINF:-1 tvg-name=" [SP] SONY-TEN-3" tvg-id="121", [SP] SONY-TEN-3
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png" group-title="Relagion Channel", ATN Islamic
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnislamictv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7jrjkW1/20240813-112630.png" group-title="Relagion Channel", Madani TV
